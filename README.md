@@ -6,4 +6,4 @@ Go to [My Portfolio](https://portfolio-tadeesha.netlify.app) and visit
 
 # Download
 
-    git clone 
+    git clone https://github.com/TadeeshaNithesh/My-Portfolio.git
